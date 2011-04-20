@@ -1,3 +1,4 @@
 name = "Salmon"
 description = "This document defines a lightweight, robust, and secure protocol for sending unsolicited notifications."
-core = 6.x
+core = 7.x
+
